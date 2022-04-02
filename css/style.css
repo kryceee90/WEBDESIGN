@@ -45,6 +45,12 @@ h2{
   font-weight: 900;
   color: #000;
 }
+.h2{
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 6rem;
+  font-weight: 900;
+  color: #000;
+}
 h3{
   font-family: 'Noto Sans KR', sans-serif;
   font-size: 3rem;
