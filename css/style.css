@@ -40,8 +40,9 @@ button {
   cursor: pointer;
 }
 h2{
-  font-family: "Mark Pro",sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 6rem;
+  font-weight: 900;
   color: #000;
 }
 h3{
